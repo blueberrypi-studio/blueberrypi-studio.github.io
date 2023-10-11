@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e935afc0.css",
-    "main.js": "/static/js/main.5721a3eb.js",
+    "main.js": "/static/js/main.abb09b4e.js",
     "static/media/cloud_viper.jpg": "/static/media/cloud_viper.19a09963455db1f77d85.jpg",
     "index.html": "/index.html",
     "main.e935afc0.css.map": "/static/css/main.e935afc0.css.map",
-    "main.5721a3eb.js.map": "/static/js/main.5721a3eb.js.map"
+    "main.abb09b4e.js.map": "/static/js/main.abb09b4e.js.map"
   },
   "entrypoints": [
     "static/css/main.e935afc0.css",
-    "static/js/main.5721a3eb.js"
+    "static/js/main.abb09b4e.js"
   ]
 }
